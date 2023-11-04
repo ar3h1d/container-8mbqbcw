@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "ar3h1d",
+  "repo": "container-8mbqbcw",
+  "name": "ar3h1d",
+  "email": "hagwartz@gmail.com",
+}
